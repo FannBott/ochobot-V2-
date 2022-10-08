@@ -1,7 +1,7 @@
 {
-    "ownerNumber": "6281215626270@s.whatsapp.net", 
-    "ownerName": "Denara Bot", 
-    "botName": "Ocho-Bot",
+    "ownerNumber": "66827294199@s.whatsapp.net", 
+    "ownerName": "SATRIA - MD", 
+    "botName": "SATRIA - BOT ²",
     "footer": "© OCHOBOT | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
@@ -12,6 +12,6 @@
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
-        "author": "Denara Bot"
+        "author": "SATRIA - MD"
     }
 }
