@@ -2,7 +2,7 @@
     "ownerNumber": "66827294199@s.whatsapp.net", 
     "ownerName": "SATRIA - MD", 
     "botName": "SATRIA - BOT ²",
-    "footer": "© OCHOBOT | 2022", 
+    "footer": "© SATRIA - MD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -11,7 +11,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
+        "packname": "© SATRIA - MD",
         "author": "SATRIA - MD"
     }
 }
